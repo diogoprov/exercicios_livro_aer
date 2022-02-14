@@ -61,7 +61,7 @@ grid.arrange(g_fdis, g_feve, nrow = 1)
 ```
 
 **14.2**
-Utilize os dados “mafragh” do pacote ade4 para teste o efeito da das variáveis “conductivity”, “silt” e “K2O” na diversidade funcional (método de Petchey e Gaston). Utilize modelos lineares (regressão múltipla) para testar a relação entre essas variáveis e discuta (a) qual variável mais importante (se houver) e (b) se as conclusões são coerentes tendo como base os pressupostos dos modelos lineares. Além disso, caso exista alguma relação significativa, faça um gráfico (scatterplot) da relação da variável mais importante e a diversidade funcional.
+Utilize os dados “mafragh” do pacote ade4 para teste o efeito das variáveis “conductivity”, “silt” e “K2O” na diversidade funcional (método de Petchey e Gaston). Utilize modelos lineares (regressão múltipla) para testar a relação entre essas variáveis e discuta (a) qual variável mais importante (se houver) e (b) se as conclusões são coerentes tendo como base os pressupostos dos modelos lineares. Além disso, caso exista alguma relação significativa, faça um gráfico (scatterplot) da relação da variável mais importante e a diversidade funcional.
 
 Solução:
 ```{r warning=FALSE, message=FALSE}
